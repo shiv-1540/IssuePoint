@@ -1,0 +1,123 @@
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.exe
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Admin\Downloads\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\ref\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\appsettings.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.exe
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.deps.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\WebApi.pdb
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\AutoMapper.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\MySqlConnector.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.build.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.development.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\refint\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.pdb
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\obj\Debug\net8.0\ref\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Humanizer.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\dotnet-6-mysql-crud-application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\appsettings.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.exe
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.deps.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\WebApi.pdb
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\AutoMapper.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Humanizer.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\MailKit.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\MimeKit.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\MySqlConnector.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\refint\WebApi.dll
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.pdb
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\College_3rdYr\complete web development\wdadgithub\dotnet-mysql-reactjs-crud-app\backend\obj\Debug\net8.0\ref\WebApi.dll
