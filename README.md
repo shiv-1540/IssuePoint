@@ -1,50 +1,102 @@
-# .Net + MySQL + React JS CRUD Application Example
-# After completing this tutorial what we will build? 
-We will build a full-stack web application that is a basic User Management Application with CRUD features: 
+# 🧾 Virtual Complaint Box
 
-• Create User 
+A role-based web application built with **React.js** (Frontend) and **ASP.NET Core (C#)** (Backend) for submitting, tracking, and resolving complaints. The system provides distinct dashboards for Users and Admins, ensuring efficient communication and complaint resolution in institutions and organizations.
 
-• List User 
+---
 
-• Update User 
+## 🛠 Tech Stack
 
-• Delete User 
+| Layer       | Technology            |
+|------------|------------------------|
+| Frontend   | React.js, Tailwind CSS |
+| Backend    | ASP.NET Core (C#)      |
+| Database   | MySQL                  |
+| Auth       | JWT (JSON Web Token)   |
+| Storage    | Local or S3 (optional) |
+| Deployment | Vercel (Frontend), Render/Azure (Backend) |
 
-• View User
+---
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1-5A8pPKNYkDAiLgCclIbeE_BOcJPw8CZgU5lXaRDyOv9RsRyWhctgn-ouIkWkXGiF6-cyOSXNe7ANxhWmMeNUUk9PFgSKYyhsyLY5ffe2icicf72AfhGOPmwtl2tO_e0HI9YOGkefB8kIOPCMsghI00qSyh_EKAlYjNNGlnJ78CnBJWNeTx-PEY5A/s1308/userlist.png">
+## 🚀 Features
 
+### 👤 User Panel
+- Register/login with JWT authentication
+- Submit new complaints
+- View status and admin feedback
+- React to complaints (like/dislike)
+- View public complaint board
 
-# Local Setup and Run the application
+### 🛡️ Admin Panel
+- View and filter all complaints
+- Change status (Pending, In Progress, Resolved)
+- Add feedback to complaints
+- Manage users
+- Dashboard with analytics (optional)
 
-<h2>Create database and table</h2>
+---
 
-```CREATE DATABASE testdb;```
+## 📂 Project Structure
 
 ```
-CREATE TABLE users(
- id INT PRIMARY KEY AUTO_INCREMENT, 
- first_name VARCHAR (20) NOT NULL, 
- last_name VARCHAR (20) NOT NULL, 
- email VARCHAR (20) NOT NULL 
-);
-
+root/
+├── backend/                    # ASP.NET Core backend
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Services/
+│   ├── Data/
+│   └── Program.cs
+├── frontend/                   # React frontend
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   └── index.js
+└── README.md
 ```
 
-<h2> Download or clone the source code from GitHub to the local machine</h2>
+---
 
-<h2> Backend</h2>
+## ⚙️ Setup Instructions
 
-You can start the api by running ```dotnet run``` from the command line in the project root folder (where the WebApi.csproj file is located)
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/virtual-complaint-box.git
+cd virtual-complaint-box
+```
 
-OR
+### 2. Backend Setup (ASP.NET Core)
+- Go to `/backend`
+- Configure MySQL connection string in `appsettings.json`
+- Run migrations if needed
+- Start server:
+```bash
+cd backend
+dotnet run
+```
 
-You can also start the application in debug mode in Visual Studio by opening the project root folder in Visual Studio and pressing F5 or by selecting Debug -> Start Debugging from the top menu, running in debug mode.
+### 3. Frontend Setup (React)
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-<h2>Frontend</h2>
+---
 
-```npm install```
+## 📸 Screenshots
 
-```npm start```
+| User Panel | Admin Panel |
+|------------|-------------|
+| ![User](screenshots/user.png) | ![Admin](screenshots/admin.png) |
 
-<h2>From the browser call the endpoint http://localhost:3000</h2>
+---
+
+## 📬 Contact
+
+For any queries or feedback, feel free to connect via [LinkedIn](https://www.linkedin.com/) or open an issue.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
